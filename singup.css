@@ -1,0 +1,17 @@
+.maindiv{
+	text-align: center;
+	margin-top: 10%;
+}
+input[type=text],[type=email],[type=integer],[type=password]{
+	border:none;
+	width: 200px;
+	height: 20px;
+	border-left: 2px solid blue;
+	background-color: lightgray;
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
